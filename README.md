@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
 ## Binary Search
