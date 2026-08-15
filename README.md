@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
+| [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
