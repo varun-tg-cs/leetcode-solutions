@@ -1,23 +1,14 @@
 class Solution {
 public:
     vector<int> numberGame(vector<int>& nums) {
-        int n = nums.size();
-        deque<int> b,f;
-        vector <int> ans;
+        int n=nums.size();
         sort(nums.begin(),nums.end());
-        for (int i = 0; i < n; i++) {
-            if(i%2==0){
-                b.push_back(nums[i]);
-            }else{
-                f.push_back(nums[i]);
-            }
+        int i=0,j=1;
+        while(j<n){
+            swap(nums[i],nums[j]);
+            i+=2;
+            j+=2;
         }
-        for(int i=0;i<n/2;i++){
-            ans.push_back(f.front());
-            ans.push_back(b.front());
-            b.pop_front();
-            f.pop_front();
-        }
-        return ans;
+        return nums;
     }
 };
