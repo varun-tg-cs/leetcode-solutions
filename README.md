@@ -146,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
