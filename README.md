@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0682-baseball-game) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0707-design-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
