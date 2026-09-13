@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
