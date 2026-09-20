@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Trie
