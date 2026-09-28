@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
