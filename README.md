@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Binary Search
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Polygons
 |  |
 | ------- |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
