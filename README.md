@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
