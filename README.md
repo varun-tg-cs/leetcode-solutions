@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3895-count-digit-appearances](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3895-count-digit-appearances](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Binary Search
 |  |
