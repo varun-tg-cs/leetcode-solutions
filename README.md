@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
