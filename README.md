@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
+| [1200-minimum-absolute-difference](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [1200-minimum-absolute-difference](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
