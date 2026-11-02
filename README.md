@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3452-sum-of-good-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
