@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3174-clear-digits](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3856-trim-trailing-vowels](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 ## Math
 |  |
 | ------- |
