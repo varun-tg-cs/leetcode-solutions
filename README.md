@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3794-reverse-string-prefix](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 ## Math
 |  |
