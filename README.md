@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0231-power-of-two) |
