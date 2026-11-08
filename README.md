@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
