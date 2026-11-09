@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2315-count-asterisks](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2942-find-words-containing-character](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3110-score-of-a-string) |
