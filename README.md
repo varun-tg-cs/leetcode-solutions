@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
