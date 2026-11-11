@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 ## Math
 |  |
