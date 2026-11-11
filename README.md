@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1399-count-largest-group](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
