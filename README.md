@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0877-stone-game) |
 | [0999-available-captures-for-rook](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1200-minimum-absolute-difference](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
@@ -405,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
