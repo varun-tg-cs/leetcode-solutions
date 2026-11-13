@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Linked List
