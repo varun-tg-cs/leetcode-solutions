@@ -13,6 +13,7 @@ class Solution {
 public:
     vector<int>ans;
     vector<int> postorderTraversal(TreeNode* root) {
+        ans.clear();
         postorder(root);
         return ans;
     }
