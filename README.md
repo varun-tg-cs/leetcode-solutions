@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1329-sort-the-matrix-diagonally](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -434,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
