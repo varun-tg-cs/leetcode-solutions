@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2315-count-asterisks](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2315-count-asterisks) |
+| [2418-sort-the-people](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3174-clear-digits) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2326-spiral-matrix-iv](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 | [2367-number-of-arithmetic-triplets](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2974-minimum-number-game](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
