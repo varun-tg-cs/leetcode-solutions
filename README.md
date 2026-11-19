@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2315-count-asterisks](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/3174-clear-digits) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/varun-tg-cs/leetcode-solutions/tree/master/2942-find-words-containing-character) |
